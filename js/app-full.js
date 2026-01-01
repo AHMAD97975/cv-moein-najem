@@ -13,18 +13,18 @@ const translations = {
     "company-name": "شركة Impact للاستشارات",
 
     // Profile Section
-    "profile-title": "الملف الشخصي",
+    "profile-title": "الملف الشخصي — معين نجم حكم في جائزة التميز في تجربة العملاء SCXA السعودية",
     "profile-text":
-      'معين نجم لديه خبرة واسعة في إدارة المشاريع في مجالات التميز، الجودة، توثيق العمليات والتحسين المستمر، إدارة الأداء، تجربة العملاء، تصميم الخدمات، تحسين الخدمات، رسم وتطوير العمليات، والاستشارات الإدارية لأكثر من 12 عامًا، تطوير أداء الخدمة العامة، تنفيذ النماذج وتقييم القنوات وتحسينها. عمل مع العديد من المنظمات الحكومية في الإمارات العربية المتحدة والمملكة العربية السعودية لتحقيق الاعتمادات المعترف بها محليًا وعالميًا بما في ذلك (SCXA السعودية، برنامج التميز الحكومي بدبي "Dgep"، نظام التصنيف النجمي العالمي "7 نجوم"، ICXS، الالتزام بالتميز "C2E"، الاعتراف بالتميز "R4E"، GEM2، جائزة أبوظبي للأداء الحكومي المتميز "ADAEP" وجائزة الشيخ خليفة للتميز "SKEA").',
+      'يمتلك معين نجم خبرة واسعة تتجاوز 12 عاماً في إدارة المشاريع المتعلقة بالتميز والجودة، وتوثيق العمليات والتحسين المستمر، وإدارة الأداء، وتجربة العملاء، وتصميم وتحسين الخدمات، ورسم وتطوير العمليات، بالإضافة إلى الاستشارات الإدارية وتطوير أداء الخدمات العامة وتطبيق النماذج وتقييم وتحسين القنوات. عمل مع العديد من الجهات الحكومية في الإمارات والسعودية لمساعدة تلك الجهات على الحصول على اعتمادات محلية ودولية معروفة، مثل: SCXA السعودية، برنامج دبي للتميز الحكومي (DGEP)، نظام التقييم العالمي للخدمات (7 Star GSRS)، ICXS، Committed to Excellence (C2E)، Recognized for Excellence (R4E)، GEM2، جائزة أبوظبي للتميز في الأداء الحكومي (ADAEP)، وجائزة الشيخ خليفة للتميز (SKEA).',
 
     // Education
     "edu-title": "التعليم",
-    "edu-degree1": "ماجستير إدارة الأعمال - إدارة المشاريع - طالب",
-    "edu-inst1": "جامعة ميد أوشن",
+    "edu-degree1": "ماجستير إدارة الأعمال تخصص إدارة المشاريع — طالب",
+    "edu-inst1": "جامعة ميدوكان (MIDOCEAN)",
     "edu-degree2":
-      "ماجستير إدارة الأعمال المصغر - الإدارة العامة والإدارة، عام",
+      "ماجستير مصغر في إدارة الأعمال والإدارة العامة",
     "edu-inst2": "المعهد الدولي لإدارة الأعمال (IBMI)",
-    "edu-degree3": "بكالوريوس في الأدب الإنجليزي واللغويات",
+    "edu-degree3": "بكالوريوس آداب في الأدب الإنجليزي واللسانيات",
     "edu-inst3": "جامعة دمشق",
 
     // Experience Section
@@ -308,9 +308,9 @@ const translations = {
     "company-name": "Impact Consultancy",
 
     // Profile Section
-    "profile-title": "Profile",
+    "profile-title": "Profile — Moein is SCXA Saudi CX Excellence Award Judge",
     "profile-text":
-      'Moein Najem has vast project management experience in Excellence, Quality, Process documentation & continuous improvement, Performance Management, Customer Experience, Services design, Services Improvement, Process Mapping & development, and Management consulting over more than 12 years, Public Service Performance development, Models Implementation & Channels Assessment & Improvement. He worked with many UAE, KSA Government organization to achieve both locally & globally identified accreditation including (SCXA Saudi, Dubai Government Excellence Program "Dgep", Global Star Rating System "7 Star", ICXS, Committed to Excellence "C2E", Recognized for Excellence "R4E", GEM2, Abu Dhabi Award for Excellence in Government Performance "ADAEP" & The Sheikh Khalifa Excellence Award "SKEA").',
+      'Moein Najem has vast project management experience in Excellence, Quality, Process documentation & continuous improvement, Performance Management, Customer Experience, Services design, Services Improvement, Process Mapping & development, and Management consulting over more than 12 years, Public Service Performance development, Models Implementation & Channels Assessment & Improvement. He worked with many UAE, KSA Government organization to achieve both locally & globally identified accreditation including (SCXA Saudi, Dubai Government Excellence Program "DGEP", Global Star Rating System "7 Star GSRS", ICXS, Committed to Excellence "C2E", Recognized for Excellence "R4E", GEM2, Abu Dhabi Award for Excellence in Government Performance "ADAEP" & The Sheikh Khalifa Excellence Award "SKEA").',
 
     // Education
     "edu-title": "Education",
@@ -324,7 +324,7 @@ const translations = {
     // Experience Section
     "exp-title": "Experiences",
     "exp-date1": "July 2024 - Present",
-    "exp-title1": "Experience and Quality Manager - Mid Ocean",
+    "exp-title1": "Experience and Quality Manager - MIDOCEAN",
     "exp-subtitle1": "Manage & implement the Consultancy Projects:",
     "exp-item1-1":
       'Ajman Excellence Award, GSRS "Global Star Rating System for Services (7 Star Program)" New Standard full implementation (assessment, consultancy, development), Department of Land & Real Estate Regulation – Ajman. 2024 result 6 star for Customer Happiness Center and 5 star for Website.',
@@ -414,10 +414,10 @@ const translations = {
     course10: "Strategy & Operations",
     course11: "PMP Training Course",
     course12: "EAT Course from EFQM (EFQM Assessor)",
-    course13: "ISO 9001-2015 Course Lloyd's Register / L'RQA",
-    course14: "Preparation of Surveys and Opinion Poll Course",
-    course15: "Training the Trainers Course",
-    course16: "Guide Assertiveness Skills",
+    course13: "ISO 9001-2015 Course Lloyd's Register / LRQA",
+    course14: "Preparation of Surveys and Opinion Poll Course with CMI Excellence",
+    course15: "Training the Trainers Course with CMI Excellence",
+    course16: "Guide Assertiveness Skills with Management Study Guide",
 
     // Ethos Experience
     "exp-date4": "2017 to November 2022",
@@ -480,7 +480,7 @@ const translations = {
     deliv15: "Development of SLA & OLA",
 
     // Additional Projects
-    "projects-title": "Additional Projects",
+    "projects-title": "Selected Projects and Examples",
     "proj-title1": "Roads Transport Authority-Dubai 2020",
     "proj-desc1":
       "Global Star Rating System for Services (7 Star Program) - New Standard (consultancy, improvement, preparation). RTA Barsha/ Deira/ Um El-Romol Happiness Customers Centre",
