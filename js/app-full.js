@@ -324,7 +324,7 @@ const translations = {
     // Experience Section
     "exp-title": "Experiences",
     "exp-date1": "July 2024 - Present",
-    "exp-title1": "Experience and Quality Manager - Mid Ocean",
+    "exp-title1": "Experience and Quality Manager - MIDOCEAN",
     "exp-subtitle1": "Manage & implement the Consultancy Projects:",
     "exp-item1-1":
       'Ajman Excellence Award, GSRS "Global Star Rating System for Services (7 Star Program)" New Standard full implementation (assessment, consultancy, development), Department of Land & Real Estate Regulation – Ajman. 2024 result 6 star for Customer Happiness Center and 5 star for Website.',
@@ -414,10 +414,10 @@ const translations = {
     course10: "Strategy & Operations",
     course11: "PMP Training Course",
     course12: "EAT Course from EFQM (EFQM Assessor)",
-    course13: "ISO 9001-2015 Course Lloyd's Register / L'RQA",
-    course14: "Preparation of Surveys and Opinion Poll Course",
-    course15: "Training the Trainers Course",
-    course16: "Guide Assertiveness Skills",
+    course13: "ISO 9001-2015 Course Lloyd's Register / LRQA",
+    course14: "Preparation of Surveys and Opinion Poll Course with CMI Excellence",
+    course15: "Training the Trainers Course with CMI Excellence",
+    course16: "Guide Assertiveness Skills with Management Study Guide",
 
     // Ethos Experience
     "exp-date4": "2017 to November 2022",
@@ -480,7 +480,7 @@ const translations = {
     deliv15: "Development of SLA & OLA",
 
     // Additional Projects
-    "projects-title": "Additional Projects",
+    "projects-title": "Selected Projects and Examples",
     "proj-title1": "Roads Transport Authority-Dubai 2020",
     "proj-desc1":
       "Global Star Rating System for Services (7 Star Program) - New Standard (consultancy, improvement, preparation). RTA Barsha/ Deira/ Um El-Romol Happiness Customers Centre",
