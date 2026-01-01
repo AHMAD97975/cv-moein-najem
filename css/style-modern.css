@@ -295,6 +295,10 @@ body {
     background: linear-gradient(135deg, #25D366, #128C7E);
 }
 
+.social-link.linkedin {
+    background: linear-gradient(135deg, #0077B5, #005582);
+}
+
 .social-link.instagram {
     background: linear-gradient(135deg, #E1306C, #C13584, #833AB4, #5851DB);
 }
